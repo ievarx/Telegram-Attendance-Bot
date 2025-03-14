@@ -19,7 +19,7 @@ This repository contains the **Telegram Attendance Bot**, a **university databas
 #### **⚙️ How to Install & Run:**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/Telegram-Attendance-Bot.git
+   git clone https://github.com/ievarx/Telegram-Attendance-Bot.git
    ```  
 2. **Install dependencies:**  
    Run the following commands:  
